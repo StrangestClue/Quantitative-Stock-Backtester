@@ -124,6 +124,35 @@ Testing on Reliance Industries (2020–2025) showed that:
 
 ---
 
+## Results
+### Strategy vs Buy & Hold
+The following chart compares the portfolio value of the Moving Average Crossover strategy against a Buy & Hold benchmark over the testing period.
+
+<p align="center">
+  <img src="results/strategy_vs_buyhold.png" width="900">
+</p>
+
+---
+
+### Relative Strength Index (RSI)
+
+The RSI indicator highlights periods where the stock may have been overbought or oversold.
+
+<p align="center">
+  <img src="results/RSI_chart.png" width="900">
+</p>
+
+---
+
+### Bollinger Bands
+
+Bollinger Bands illustrate market volatility and how price interacts with the upper and lower volatility bands.
+
+<p align="center">
+  <img src="results/boillinger_bands.png" width="900">
+</p>
+---
+
 ## Future Improvements
 * Multiple trading strategies
 * RSI-based strategy
